@@ -37,7 +37,7 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 - [Makefile](https://howtoinstall.co/pt/make)
 
 ## Uso 
-1- Abrir e Ler a [Questão Problema](./Questao-problema.md), para entender o contexto da applicação.
+1- Abrir e Ler a [Questão Problema](https://projeto-de-algoritmos.github.io/D-C-Apre-DC/#/README), para entender o contexto do desafio.
 
 
 2- Abrir e Ler o [Codigo da solução do problema](./src/solucao-torre.py).
