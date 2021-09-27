@@ -17,11 +17,10 @@ def quantDisco():
         for i in range(100):
             if ctrl == i.__str__():
                 ndiscos = ctrl
-
-        if ndiscos != "" and int(ndiscos) >= 3:
+                
             iniciarjogo = True
-        else:
-            print("|------>   A quantidade minima de disco para iniciar o jogo deve ser >= 7 disco.")
+        
+          
 
 
 def init():
