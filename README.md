@@ -24,12 +24,34 @@ O que é o método PBL? Diferentemente da métodologia tradicional ela busca uma
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/page.png
-
-![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/solucao.png
 
 
-![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/desafio.png
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/page.png)
+
+<center> 
+
+[[Imagem 1]- do Problema](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/page.png)
+
+</center>
+
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/solucao.png)
+
+<center> 
+
+[[Imagem 2]- Solução para a torre de hanoi](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/solucao.png)
+
+</center>
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/desafio.png)
+
+<center> 
+
+[[Imagem 3]- do Desafio proposto](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/desafio.png)
+
+</center>
+
+
 
 ## Instalação 
 **Linguagem**: Python3<br>
