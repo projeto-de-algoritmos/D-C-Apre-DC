@@ -9,18 +9,59 @@
 
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+
+O projeto é uma abordagem do método educacional PBL(aprendizagem baseada em problemas) aplicado a algoritmos do tipo "Dividir para conquitar".
+
+O que é o método PBL? Diferentemente da métodologia tradicional ela busca uma  estratégia de metodologia ativa, que o principal protagonista é o aluno, com o objetivo de ajudar o estudante entender como que funciona a teoria junto com a prática, além disso, com mais engajamento, autonomia e protagonismo.
+
+3 principios do PBL
+
+* **Entendimento do problema:** o entendimento do problema surge através da interação dos alunos;
+* **Conflito cognitivo:** o conflito cognitivo deve existir, pois é ele que estimula a aprendizagem;
+* **Resolução:** do problema: o conhecimento ocorre com o reconhecimento e aceitação da interpretação de vários atores sobre o mesmo fenômeno.
+
+* **Questão problema:** Nessa questão vai ser aplicado o metodologia na questão classica de algoritimos a fomosa torre de Hanoi, além de todo o desenvolvimento do contexto, o código foi feita de maneira mais simples possível para que qualquer pessoa que tenha o conhecimento básico de Pyhton, consiga entender.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3<br>
+**Framework**: (Não se aplica)<br>
+
+
+### Pré-requisitos
+- SO: Linux (Ubuntu, Debian,...)
+- [python3](https://python.org.br/instalacao-linux/)
+
+- [Makefile](https://howtoinstall.co/pt/make)
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+1- Abrir e Ler a [Questão Problema](./Questao-problema.md), para entender o contexto da applicação.
+
+
+2- Abrir e Ler o [Codigo da solução do problema](./src/solucao-torre.py).
+
+
+3- Rodar o codigo da solução:
+
+        make solution
+
+Caso você não consiga instalar o make, você comsegue rodar o gamer com o seguinte comando.   
+
+        python3 /src/solucao-torre.py
+
+
+
+
+4- E por ultimo, você pode colocar em pratica e se divetir com o mini-gamer que foi desenvolvido, com o seguinte comando (Lembrando que você tem que está na pasta raiz):
+
+        make play
+
+Caso você não consiga instalar o make, você comsegue rodar o gamer com o seguinte comando.
+
+        python3 /src/game-torre.py
+
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
