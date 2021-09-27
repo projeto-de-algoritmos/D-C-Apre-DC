@@ -7,16 +7,26 @@
 
 &emsp;&emsp;Logo abaixo podemos ver algumas imagens inlustrativas
 
+<center>
+
 ![](./images/calvin.jpg)  
-<center> [Calvin discutindo sobre o algoritimo](./images/calvin.jpg) 
+
+[Imagem 1: Calvin discutindo sobre o algoritimo](./images/calvin.jpg) 
+
+
+![](./images/fluxo.png)
+[Imagem 2: Fluxo de como funciona o algoritmo](./images/fluxo.png)
+
+
 </center>
+
 
 # Questão Problema
 
 ## Entendimento do problema
 
 
-Esse é um dos problemas classicos da matematicos que é possivel se aplicar o algoritimos de dividir para conquitar, esse problema foi incentado em 1883 pelo matemático franceês Edouard Lucas. Esse problema tem uma inspiração direta com um lenda hindu,
+&emsp;&emsp;Esse é um dos problemas classicos da matematicos que é possivel se aplicar o algoritimos de dividir para conquitar, esse problema foi incentado em 1883 pelo matemático franceês Edouard Lucas. Esse problema tem uma inspiração direta com um lenda hindu,
 
 ## Conflito cognitivo
 
