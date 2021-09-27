@@ -8,27 +8,21 @@
 Logo abaixo podemos ver algumas imagens inlustrativas
 
 <center>
+
 <audio controls>
   <source src="https://github.com/projeto-de-algoritmos/D-C-Apre-DC/blob/gh-pages/assets/audios/fluxo.m4a?raw=true" type="audio/mpeg">
 </audio>
 
 </center>
 
+
+
+
 <center>
 
 ![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/gh-pages/images/fluxo.png)
 
 [Imagem 1: Fluxo de como funciona o algoritmo](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/gh-pages/images/fluxo.png)
-
-</center>
-
-<center>
-
-
-![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/gh-pages/images/calvin.jpg)  
-
-[Imagem 2: Calvin discutindo sobre o algoritimo](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/gh-pages/images/calvin.jpg) 
-
 
 </center>
 
