@@ -45,22 +45,22 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 3- Rodar o codigo da solução:
 
-        make solution
+    make solution
 
 Caso você não consiga instalar o make, você comsegue rodar o gamer com o seguinte comando.   
 
-        python3 /src/solucao-torre.py
+    python3 ./src/solucao-torre.py
 
 
 
 
 4- E por ultimo, você pode colocar em pratica e se divetir com o mini-gamer que foi desenvolvido, com o seguinte comando (Lembrando que você tem que está na pasta raiz):
 
-        make play
+    make play
 
 Caso você não consiga instalar o make, você comsegue rodar o gamer com o seguinte comando.
 
-        python3 /src/game-torre.py
+    python3 ./src/game-torre.py
 
 
 ## Outros 
