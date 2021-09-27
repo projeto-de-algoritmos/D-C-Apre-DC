@@ -20,10 +20,16 @@ O que é o método PBL? Diferentemente da métodologia tradicional ela busca uma
 * **Conflito cognitivo:** o conflito cognitivo deve existir, pois é ele que estimula a aprendizagem;
 * **Resolução:** do problema: o conhecimento ocorre com o reconhecimento e aceitação da interpretação de vários atores sobre o mesmo fenômeno.
 
-* **Questão problema:** Nessa questão vai ser aplicado o metodologia na questão classica de algoritimos a fomosa torre de Hanoi, além de todo o desenvolvimento do contexto, o código foi feita de maneira mais simples possível para que qualquer pessoa que tenha o conhecimento básico de Pyhton, consiga entender.
+* **Questão problema:** Nessa questão vai ser aplicado a metodologia na questão clássica de algoritmos da famosa torre de Hanoi, além de todo o desenvolvimento do contexto, o código foi feito da maneira mais simples possível para que qualquer pessoa que tenha o conhecimento básico de Python, consiga entender.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/page.png
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/solucao.png
+
+
+![](https://raw.githubusercontent.com/projeto-de-algoritmos/D-C-Apre-DC/master/assets/imagens/desafio.png
 
 ## Instalação 
 **Linguagem**: Python3<br>
@@ -47,11 +53,9 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
     make solution
 
-Caso você não consiga instalar o make, você comsegue rodar o gamer com o seguinte comando.   
+Caso você não consiga instalar o make, você comsegue rodar a solução com o seguinte comando.   
 
     python3 ./src/solucao-torre.py
-
-
 
 
 4- E por ultimo, você pode colocar em pratica e se divetir com o mini-gamer que foi desenvolvido, com o seguinte comando (Lembrando que você tem que está na pasta raiz):
