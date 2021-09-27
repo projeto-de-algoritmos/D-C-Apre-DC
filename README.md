@@ -53,7 +53,7 @@ Por exemplo:
 * Para solucionar o jogo com 15 discos, são necessários 32.767 movimentos.
 * Para solucionar o jogo com 64 discos, são necessários 18.446.744.073.709.551.615 movimentos.
 
-(2^64)−1 =  18.446.744.073.709.551.615 de movimentos. Vamos supor que os sacerdotes façam um movimento por segundo, logo o tempo estimado seria de 584.942.417.355  anos para terminar! Claramente esse problema é mais complexo do que aparenta e se você para para pensa, no final tudo de trata de um PG(Progressão geometrica). Como  já  se  passaram  perto  de  12 bilhões  de anos  desde  o  início  do  universo, ainda  nos  resta  um  tempinho, da até para jogar umas partidas de xadrez no chess.com de vez enquando. 😂🤣😂🤣
+(2^64)−1 =  18.446.744.073.709.551.615 de movimentos. Vamos supor que os sacerdotes façam um movimento por segundo, logo o tempo estimado seria de 584.942.417.355  anos para terminar! Claramente esse problema é mais complexo do que aparenta e se você para para pensa, no final tudo de trata de um PG(Progressão geometrica). Como  já  se  passaram  perto  de  12 bilhões  de anos  desde  o  início  do  universo, ainda  nos  resta  um  tempinho, da até para jogar umas partidas de xadrez no [chess.com](chess.com) de vez enquando. 😂🤣😂🤣
 
 
 ## Resolução
@@ -73,7 +73,7 @@ Acesse o [link](https://github.com/projeto-de-algoritmos/D-C-Apre-DC) e procure 
 ## Desafio
  
  
-&emsp;&emsp; Para um melhor entendimento temos um desafio para vocês, com esses conhecimentos você já tem condições de resolver um desafio com 5 discos, e aí aceita o desafio? Para rodar o desafio siga os seguintes passos.
+&emsp;&emsp; Para um melhor entendimento temos um desafio para vocês, com esses conhecimentos você já tem condições de resolver um desafio com 5 ou mais discos, e aí aceita o desafio? Para rodar o desafio siga os seguintes passos.
  
 Acesse o [link](https://github.com/projeto-de-algoritmos/D-C-Apre-DC) e procure a sessão de uso/make play, siga o passo a passo e complete o desafio.
 
