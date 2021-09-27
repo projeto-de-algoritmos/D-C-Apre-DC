@@ -9,5 +9,5 @@
 
 
 <audio controls>
-  <source src="https://github.com/projeto-de-algoritmos/D-C-Apre-DC/blob/master/assets/audios/teste1.mp3" type="audio/mpeg">
+  <source src="https://github.com/projeto-de-algoritmos/D-C-Apre-DC/blob/master/assets/audios/teste1.m4a" type="audio/mpeg">
 </audio>
