@@ -53,11 +53,27 @@ Por exemplo:
 * Para solucionar o jogo com 15 discos, são necessários 32.767 movimentos.
 * Para solucionar o jogo com 64 discos, são necessários 18.446.744.073.709.551.615 movimentos.
 
-(2^64)−1 =  18.446.744.073.709.551.615 de movimentos. Vamos supor que os sacerdotes façam um movimento por segundo, logo o tempo estimado seria de 584.942.417.355  anos para terminar! Claramente esse problema é mais complexo do que aparenta e se você para para pensa, no final tudo de trata de um PG(Progressão geometrica). Como  já  se  passaram  perto  de  12 bilhões  de anos  desde  o  início  do  universo, ainda  nos  resta  um  tempinho, da até para jogar umas partidas no chess.com de vez enqundo. 😂🤣😂🤣
+(2^64)−1 =  18.446.744.073.709.551.615 de movimentos. Vamos supor que os sacerdotes façam um movimento por segundo, logo o tempo estimado seria de 584.942.417.355  anos para terminar! Claramente esse problema é mais complexo do que aparenta e se você para para pensa, no final tudo de trata de um PG(Progressão geometrica). Como  já  se  passaram  perto  de  12 bilhões  de anos  desde  o  início  do  universo, ainda  nos  resta  um  tempinho, da até para jogar umas partidas de xadrez no chess.com de vez enquando. 😂🤣😂🤣
 
 
 ## Resolução
-
-
-
+ 
+&emsp;&emsp; A princípio já vem algumas perguntas automáticas, como podemos desenvolver uma solução para esse problema? e recursivamente pior ainda! Qual o caso base? Para a resposta dessa pergunta vamos usar o algoritmo de dividir para conquistar, vamos começar pensando em resolver o problema completo, ok, agora vamos quebrar o problemas em problemas menores que é mais facil de resolver, como exemplo iremos pegar um torre com 4 discos, então vamo começar a quebrar, resolver um torre de 4 pinos é trivial? no caso não ok, vamos quebrar para um torre com 3 discos, e agora? Ok, então quebramos para 2 discos e finalmente para uma, onde a resolução é trivial, que no caso a gente apenas movimenta o discos do pino de origem para o pino de destino, então agora só voltamos às chamadas anteriores, como agora fiz com um disco, também consigo fazer com 2 discos, na próxima consigo fazer com 3 e aí por diante, pode ter ficado um pouco confuso, mas vou deixar um colinha abaixo para entender melhor como que funciona o algoritmo.
+ 
+* 1 passo: Mova a torre de (altura − 1) para o pino intermediário, usando o pino destino como intermediário.
+ 
+* 2 passo: Mova o disco restante para o pino destino.
+ 
+* 3 Mova a torre de altura−1 do pino intermediário para o pino destino usando o pino origem como intermediário.
+ 
+Contanto que sempre obedeçamos a regra de que os discos maiores permanecem na parte inferior da pilha, podemos usar as três etapas acima recursivamente, tratando discos maiores como se eles nem estivessem lá. Para melhor entendimento temo uma solução pronta, para conseguir acessar siga o passo abaixo.
+ 
+Acesse o [link](https://github.com/projeto-de-algoritmos/D-C-Apre-DC) e procure a sessão de uso/solução, siga o passo a passo e rode a solução proposta.
+ 
+## Desafio
+ 
+ 
+&emsp;&emsp; Para um melhor entendimento temos um desafio para vocês, com esses conhecimentos você já tem condições de resolver um desafio com 5 discos, e aí aceita o desafio? Para rodar o desafio siga os seguintes passos.
+ 
+Acesse o [link](https://github.com/projeto-de-algoritmos/D-C-Apre-DC) e procure a sessão de uso/make play, siga o passo a passo e complete o desafio.
 
