@@ -65,6 +65,9 @@ O que é o método PBL? Diferentemente da métodologia tradicional ela busca uma
 - [Makefile](https://howtoinstall.co/pt/make)
 
 ## Uso 
+
+0- Clonar o repositorio na sua maquina e entrar na pasta do projeto.
+
 1- Abrir e Ler a [Questão Problema](https://projeto-de-algoritmos.github.io/D-C-Apre-DC/#/README), para entender o contexto do desafio.
 
 
