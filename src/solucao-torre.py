@@ -1,7 +1,5 @@
 import sys
 nmov=0
-subconjuntos=[]
-
 
 def move(n,torre1,torre3,conj):
         global nmov
@@ -23,7 +21,7 @@ if __name__ == '__main__':
     ndiscos= int(input())
    
     conj=[]
-    subconjuntos.append([])
+  
     for i in range(0,ndiscos):
         conj.append(0)
-    hanoi(ndiscos,'A','B','C',conj)
+    hanoi(ndiscos,'A','C','B',conj)
